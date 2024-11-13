@@ -1,0 +1,11 @@
+C:\Users\felipe.silva.CMR\Documents\Projetos\ImprimirPreçoCg\ImprimirPreçoCg\bin\Debug\ImprimirPreçoCg.exe.config
+C:\Users\felipe.silva.CMR\Documents\Projetos\ImprimirPreçoCg\ImprimirPreçoCg\bin\Debug\ImprimirPreçoCg.exe
+C:\Users\felipe.silva.CMR\Documents\Projetos\ImprimirPreçoCg\ImprimirPreçoCg\bin\Debug\ImprimirPreçoCg.pdb
+C:\Users\felipe.silva.CMR\Documents\Projetos\ImprimirPreçoCg\ImprimirPreçoCg\obj\Debug\ImprimirPreçoCg.csproj.AssemblyReference.cache
+C:\Users\felipe.silva.CMR\Documents\Projetos\ImprimirPreçoCg\ImprimirPreçoCg\obj\Debug\ImprimirPreçoCg.csproj.SuggestedBindingRedirects.cache
+C:\Users\felipe.silva.CMR\Documents\Projetos\ImprimirPreçoCg\ImprimirPreçoCg\obj\Debug\ImprimirPreçoCg.Form1.resources
+C:\Users\felipe.silva.CMR\Documents\Projetos\ImprimirPreçoCg\ImprimirPreçoCg\obj\Debug\ImprimirPreçoCg.Properties.Resources.resources
+C:\Users\felipe.silva.CMR\Documents\Projetos\ImprimirPreçoCg\ImprimirPreçoCg\obj\Debug\ImprimirPreçoCg.csproj.GenerateResource.cache
+C:\Users\felipe.silva.CMR\Documents\Projetos\ImprimirPreçoCg\ImprimirPreçoCg\obj\Debug\ImprimirPreçoCg.csproj.CoreCompileInputs.cache
+C:\Users\felipe.silva.CMR\Documents\Projetos\ImprimirPreçoCg\ImprimirPreçoCg\obj\Debug\ImprimirPreçoCg.exe
+C:\Users\felipe.silva.CMR\Documents\Projetos\ImprimirPreçoCg\ImprimirPreçoCg\obj\Debug\ImprimirPreçoCg.pdb
